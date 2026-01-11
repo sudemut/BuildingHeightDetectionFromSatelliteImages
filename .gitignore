@@ -1,0 +1,8 @@
+dfc2023_height_dataset/
+track2/
+# ML checkpoints
+checkpoints/
+*.ckpt
+*.pth
+*.pt
+*.h5
